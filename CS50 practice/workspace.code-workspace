@@ -1,0 +1,10 @@
+{
+	"folders": [],
+	"remoteAuthority": "codespaces+congenial-train-wrxxpwwx9vw354rj",
+	"settings": {
+		"gitdoc.enabled": true,
+		"files.associations": {
+			"cs50.h": "c"
+		}
+	}
+}
